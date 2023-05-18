@@ -30,11 +30,12 @@ header {
   background-color: #eb0d0d;
 }
 
-.address{
+.address {
   text-align: center;
   color: #fff;
   font-size: 34px;
 }
+
 .card {
   display: flex;
   flex-direction: column;
@@ -59,7 +60,6 @@ header {
   font-family: 700;
   margin: 10px;
   text-align: center;
-
   color: #0a0ae4;
 }
 
